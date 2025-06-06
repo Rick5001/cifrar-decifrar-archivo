@@ -1,4 +1,4 @@
-#  Cifrado y Descifrado de Archivos – Python
+#  Cifrado y Descifrado de Archivos
 
 Este script permite **cifrar y descifrar archivos** usando una clave secreta generada automáticamente con la librería `cryptography`, asegurando la confidencialidad de la información.
 
